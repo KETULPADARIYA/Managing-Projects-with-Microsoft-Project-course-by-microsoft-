@@ -1,0 +1,13 @@
+As I get ready to launch your new project, I realize that I might need to team up with another company, to fill any gaps that Trey Research may have. I have found an existing Trey project that contains the tasks and resources to merge with or acquire another company, and I would like to modify this project plan for your use. I know that you can save it as a template, and then create a new project from the template and make the necessary changes to suit your needs. The steps to create the template are simple.
+
+1. Open the project plan that you want to save as a template.
+	a Open the Merger_and_Acquisitions_Analysis.mpp project plan from the 	  location where it has been saved.
+2. Save the project plan as a template.
+	a Use the Save As command to save the file as a Project Template, with 	  the .mpt extension, to the location where you want it to be saved.
+3. Select the data that you like to keep or remove from the template.
+   Note: The Mergers and Acquisitions Analysis project is in progress, and it is    important to remove any data that will not be used in a new project that will    be created based upon the template.
+
+	a. In the Save As Template dialog box, check the Values of all baselines            and Actual Values options.
+	b. Leave the remaining values unchecked.
+	c. Click Save.
+4. Close the template file.

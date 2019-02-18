@@ -1,0 +1,7 @@
+Now that I have created a new project plan for my presentation device, i need to configure some basic information in it. The project sponsor has given me a start date for the work, and has indicated that you will schedule everything from that start date. Microsoft Project will then calculate the finish date, based upon the tasks, durations, and resource assignments. 
+
+1. Set the project’s scheduling mode and start date.
+	a. From the Project tab on the ribbon, select Project Information. Set 		   the Start date to August 1, 2016.
+        b. Ensure that the Schedule from drop-down list is set to Project Start            date.
+	c. Select OK.
+2. Save the file, and leave it open.

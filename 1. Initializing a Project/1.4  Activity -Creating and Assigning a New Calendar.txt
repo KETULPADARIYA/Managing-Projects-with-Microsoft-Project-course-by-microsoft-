@@ -1,0 +1,29 @@
+Trey Research is not open on several Federal holidays, and employees will work only a half day on Election Day. Thus i  include these non-working days in a calendar, and then assign the calendar to my project.
+
+
+1. Create a copy of the Standard calendar.	
+	a) On the Project tab on the ribbon, select Change Working Time.
+	b) Create a new calendar named Trey Research
+
+2. Add federal holidays as exceptions.
+	a) Navigate in the calendar to May 2016, and select May 30.
+	b) In the Exceptions table, type Memorial Day
+	c) Add the following exceptions to the project calendar:
+		i.  Monday, July 4, 2016, Independence Day
+		ii. Monday, September 5, 2016, Labor Day
+        	iii.Tuesday, November 8, 2016, Election Day
+
+3. Change the working time of Election Day to 8:00 AM-12:00 PM.
+	a) In the Exceptions table, select Election Day, then the Details button 	             to the right.
+	b) Set the time as Working, and use the Delete key to remove the second 	  	   row.
+
+4. Set a recurrence pattern for Memorial Day and Labor Day for the next 10    years.
+	a) In the Exceptions table, select Memorial Day, then the Details button.
+	b) Change the recurrence interval to Yearly, select the Last Monday of May, and 	   change the number of occurrences to 10.
+	c) Repeat these steps for Labor Day, which is the first Monday in September.
+
+5. Assign the Trey Research calendar as the project calendar.
+	a) On the Project tab, select Project Information.
+	b) Change the calendar from Standard to Trey Research.
+
+6. Save the file and close it.

@@ -1,0 +1,5 @@
+Scenario
+
+Trey Research is an enterprise-level company that develops and manufactures innovative products that are designed to improve business productivity. The Research and Development (R&D) department has been exploring new opportunities and has authorized the development of an enhanced laser presentation device. While the concept is not new (other devices are on the market to advance slides in a presentation), Trey’s design will incorporate three colors of laser lights, rather than only the red light that is found in competing products. Market research has shown that public speakers want the option to use white and yellow lights also.
+
+the project manager on this exciting venture are looking forward to the next several months. The R&D department has placed tight time and cost constraints on the project, and a big bonus awaits you if you meet them. I have used Microsoft Excel to track other projects, but the complexity of this one demands a more robust tool, so I have decided to use Microsoft Project instead. I create a project plan from scratch for my work.
