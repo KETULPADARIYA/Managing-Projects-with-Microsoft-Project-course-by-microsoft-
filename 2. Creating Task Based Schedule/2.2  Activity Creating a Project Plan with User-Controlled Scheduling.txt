@@ -1,0 +1,19 @@
+I am becoming more familiar with user-controlled-scheduling, and I want to experiment with it before applying it to the Trey Slide Presenter project.I remember that by default all tasks in Microsoft Project are set to Manually Scheduled, which means that when I add a new task, Microsoft Project does not set dates and durations for it. The Project Management Office (PMO) at Trey Research has created a small file for me to work with. The tasks are presently Manually Scheduled, and some of the tasks should become Auto Scheduled. I also want to change the default setting in Microsoft Project so all new projects are Auto Scheduled.
+
+Open the file named New_Widget_Project from the Create a Project Schedule folder. Note that some of the fields have data in them and others do not, and that some fields have text instead of dates or numbers. This is a feature of Manually Scheduled tasks.
+Link the tasks.
+Select the first task name in the Task Entry table, hold the Shift key and select the last task name.
+In the Schedule group of the Task tab select the Link the Selected tasks button. The duration and dates fields will then be populated, but the tasks will still be Manually Scheduled.
+Change the scheduling mode of the Design task.
+Select the Design task name, and in the Properties group of the Task tab select Information.
+In the General tab, change the Schedule Mode to Auto Scheduled. The color of the Gantt bar will change to a different shade of blue.
+Change the scheduling mode of the Marketing task in the same manner, and note that the values in the Duration and Date fields have changed.
+Change the scheduling mode for all new tasks to Auto Scheduled.
+On the Status Bar at the bottom of the Gantt Chart, select New Tasks: Manually Scheduled and change it to New Tasks: Auto Scheduled.
+Add a new task at the end of the project.
+In the first blank row of the Task Entry table, enter the name Production
+Change the default scheduling mode for all new projects to Auto Scheduled.
+Select the File tab, then Options, and then Schedule Options.
+Click the drop-down arrow next to Scheduling options for this project, and select All new projects.
+Beneath this, change New tasks created to Auto Scheduled, and click OK to close Project Options.
+Save the file as My_New_Widget_Project and close it.

@@ -1,0 +1,45 @@
+Now that i have begun my project plan in Microsoft Project, i want to add some tasks to it. My project will have several phases, and i will add a few tasks in the first phase of the work. I know how long each task should take, so i add duration values to the plan at this time. Also i link the tasks in the correct sequence and address special considerations (lag and lead time, constraints, and deadlines) where they will apply.
+
+1. Open the Trey_Slide_Presenter_Tasks.mpp project plan file.
+2. Set Microsoft Project so all new tasks are automatically scheduled.
+	a. On the Status Bar at the bottom of the Gantt Chart, left-click New Tasks: 		Manually Scheduled, and change it to New Tasks: Auto Scheduled.
+
+3. Add the following tasks in the Gantt Chart.
+	a. In the Task Entry pane, in the Name field, enter the following tasks in the	 	   first four rows:
+		Determine sales objectives
+		Define launch timing and publicity objectives
+		Identify budget requirements
+		Obtain launch budget approval
+
+4. Add durations for each task.
+	a. In the Duration field for each task, enter the following values:
+		For the Determine sales objectives task, enter 3 days
+		For the Define launch timing and publicity objectives task, enter 3 days
+		For the Identify budget requirements task, enter 1 week?
+		For the Obtain launch budget approval task, enter 1 week
+
+5. Link the tasks in a Finish-to-Start relationship.
+	a. Select all of the tasks you just entered.
+	b. In the Schedule group of the Task tab on the ribbon, select Link the selected 	   tasks.
+
+6. Change the relationship between Tasks 1 and 2 to Start-to-Start.
+	a. Open the Task Information dialog box for Task 2, Define launch timing and 	   publicity objectives, by selecting the task name, then selecting the 	   Information button in the Properties group of the Task tab.
+	b. In the Predecessors tab of the Task Information dialog box, select Determine 	   sales objectives and in the Type field, select Start-to-Start (SS).
+
+7. Add a lag time between Tasks 3 and 4.
+	a. Open the Task Information dialog box for Task 4, Obtain launch budget 	  approval, by selecting the task name, then selecting the Information button in 	  the Properties group of the Task tab.
+	b.In the Predecessors tab of the Task Information dialog box, select Identify 	  budget requirements, and in the Lag column type 1d for a 1-day lag.
+
+8. Add a lead time between Tasks 2 and 3.
+	a. Open the Task Information dialog box for Task 3, Identify budget 	  requirements, by selecting the task name, then selecting the Information 	  	  button.in the Properties group of the Task tab.
+	b.In the Predecessors tab of the Task Information dialog box, select Define 	  launch timing and publicity objectives, and in the Lag column type -2d for a 	  2-day lead.
+
+9. Set a constraint for Task 3.
+	a. Open the Task Information dialog box for Task 3, Identify budget 	   requirements, by selecting the task name, then selecting the Information 	 	   button in the Properties group of the Task tab.
+	b. In the Advanced tab of the Task Information dialog box, change the Constraint 	   type to Start No Earlier Than, and set the Constraint date to 8/2/16 
+
+10. Set a deadline for Task 4.
+	a. Open the Task Information dialog box for Task 3, Identify budget 	   requirements, by selecting the task name, then selecting the Information 	   button in the Properties group of the Task tab.
+	b. In the Advanced tab of the Task Information dialog box, set the Deadline to 	   8/19/16.
+
+11. Save the file as My_Trey_Slide_Presenter_Tasks

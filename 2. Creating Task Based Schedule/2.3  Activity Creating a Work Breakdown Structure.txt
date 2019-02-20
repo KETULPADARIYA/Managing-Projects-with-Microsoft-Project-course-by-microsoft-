@@ -1,0 +1,29 @@
+Scenerio
+
+A member of my project team has begun to list the tasks for my project. She has entered the first two phases of work into Microsoft Project, and i need to make some changes so that the work will flow smoothly.
+
+step
+Open the file.
+From the Create a Project Schedule folder, open Trey_Slide_Presenter_Tasks_a.mpp.
+Rearrange the task list.
+Select the row for the Define press release requirements task.
+Drag the selected task up until it is between Kickoff product launch and Define sales presentation.
+Insert a summary task.
+Select row numbers 9-12.
+In the Insert group of the Task tab, select Summary.
+Replace the placeholder text <New Summary Task> with Marketing
+Insert a milestone.
+Select the task named Phase 2 – Detailed Planning.
+In the Insert group of the Task tab, select Milestone.
+Replace the placeholder text <New Milestone> with High-Level Planning Complete
+Indent tasks so they are subtasks of a summary task.
+Select the tasks named Identify budget requirements and Obtain launch budget approval.
+In the Schedule group of the Task tab, select Indent Task.
+Add text to a task note.
+Select the Engineering task.
+In the Properties group of the Task tab, select Information.
+In the Notes area on the Notes tab, enter Engineering has its own set of plans that it will follow and select OK.
+Show the Project Summary Task.
+On the ribbon, select the Format tab.
+In the Show / Hide group, select the Project Summary Task check box.
+Save the file as My_Trey_Slide_Presenter_Tasks_a.mpp

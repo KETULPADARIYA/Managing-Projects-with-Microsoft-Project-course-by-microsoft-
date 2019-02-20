@@ -1,0 +1,29 @@
+Scenario
+
+My team has made progress on the Work Breakdown Structure, by adding durations and links to the tasks. I need to make some changes to my Work Breakdown Structure, as it is still a work in progress. I will add a new task in the middle of the project, mark a task inactive because I do not think i will need to perform it, split a task into two separate pieces, and move a task forward by a day. I also want to learn how to reschedule incomplete work, although i will not need to do this until the project is underway.
+
+Open the file.
+Open the file named Trey_Slide_Presenter_Tasks_b.mpp from the Create a Project Schedule folder.
+Insert a new task into the existing task list.
+Select the Phase 3 - Execution task name.
+In the Insert group on the Task tab, select Task. 
+Note: The new task will appear immediately above the task Phase 3 – Execution, and it will be linked in a Finish-to-Start relationship with Plan team staffing to support sales goals and Evaluate market and refine messaging.
+Replace the <New Task> placeholder with the text Detailed Planning Complete
+Set the Duration to 0 days, to make the task a milestone.
+Mark the Define internal communication needs task as inactive.
+Select the Define internal communication needs task.
+On the Schedule group on the Task tab, select Inactivate. The task name and associated Gantt bar will have a strikeout line through them, and the linking of the tasks will be updated to reflect that this task will not be done.
+Manually split the Obtain launch budget approval task to have a one-day delay that will occur two days after the task begins.
+Select the Obtain launch budget approval task.
+In the Schedule group of the Task tab, select Split task.
+In the Gantt Chart pane, select the place in the bar where the split will occur, Friday 8/12/2016.
+Move the Define sales presentation task.
+Select the Define sales presentation task.
+In the Tasks group of the task tab, select Move Task, and then select Move Task Forward 1 day.
+Save the file as My_Trey_Slide_Presenter_Tasks_b.mpp
+Reschedule incomplete work.
+Select the Define sales presentation task.
+In the Schedule group of the Task tab, select 50%. The Gantt bar for the task will be dark blue for 2 days (50% of the duration).
+In the Status group of the Project tab, select Update Project.
+In the Update Project window, select Reschedule uncompleted work to start after and enter 8/25/2016. The task will then appear with a one-day split.
+Close the file and do not save changes.
